@@ -1,0 +1,201 @@
+Date,Product,Revenue,Units_Sold,Region,Customer
+2025-01-06,Enterprise,13821,3,West,Nova Commerce
+2025-01-08,Starter Plan,861,3,South,Forge Systems
+2025-01-08,Enterprise,10206,2,North,Ion Logistics
+2025-01-14,Consulting,3599,7,West,Nova Commerce
+2025-01-16,Add-ons,1076,4,East,Umbra Finance
+2025-01-17,Enterprise,7418,2,North,Yellowbird Health
+2025-01-21,Starter Plan,970,6,West,Valence Motors
+2025-01-26,Starter Plan,1232,5,West,Atlas Freight
+2025-01-26,Enterprise,12410,3,East,Trident Security
+2025-01-27,Pro Plan,3141,6,North,Nova Commerce
+2025-01-27,Add-ons,972,3,East,BluePeak Retail
+2025-01-31,Starter Plan,1141,3,West,Yellowbird Health
+2025-01-31,Add-ons,1862,6,West,Nova Commerce
+2025-02-01,Consulting,3916,6,East,Nova Commerce
+2025-02-02,Starter Plan,1294,7,North,Brightline Media
+2025-02-03,Consulting,9757,7,South,Westfield Travel
+2025-02-05,Enterprise,9628,1,North,Harbor Energy
+2025-02-05,Enterprise,14684,2,West,Xenon Robotics
+2025-02-08,Starter Plan,1495,8,North,Crest Advisory
+2025-02-13,Add-ons,1302,2,South,BluePeak Retail
+2025-02-17,Add-ons,949,4,East,Acme Corp
+2025-02-21,Pro Plan,2717,8,West,Granite Capital
+2025-02-24,Add-ons,1028,7,North,Umbra Finance
+2025-02-27,Enterprise,14864,1,South,Acme Corp
+2025-02-28,Consulting,8367,5,North,Trident Security
+2025-02-28,Enterprise,13629,2,North,Westfield Travel
+2025-02-28,Pro Plan,4252,2,West,Monarch Bio
+2025-02-28,Starter Plan,1272,6,North,Monarch Bio
+2025-03-01,Consulting,6937,5,East,Acme Corp
+2025-03-03,Starter Plan,1294,1,East,Valence Motors
+2025-03-08,Add-ons,1126,5,North,Granite Capital
+2025-03-09,Starter Plan,1068,8,South,Nova Commerce
+2025-03-13,Consulting,8298,4,South,Evergreen Foods
+2025-03-14,Pro Plan,2475,2,North,Evergreen Foods
+2025-03-14,Pro Plan,2878,1,East,BluePeak Retail
+2025-03-16,Consulting,7897,7,North,Nova Commerce
+2025-03-21,Starter Plan,1094,8,East,Brightline Media
+2025-03-22,Starter Plan,1571,1,West,Monarch Bio
+2025-03-22,Pro Plan,4184,1,North,BluePeak Retail
+2025-03-22,Pro Plan,3676,6,South,Granite Capital
+2025-03-24,Starter Plan,1485,6,East,Xenon Robotics
+2025-03-26,Pro Plan,5002,5,East,Nova Commerce
+2025-03-27,Starter Plan,1004,2,North,Harbor Energy
+2025-03-28,Add-ons,1310,2,East,Valence Motors
+2025-03-31,Consulting,10885,5,East,Yellowbird Health
+2025-03-31,Pro Plan,5787,2,North,Evergreen Foods
+2025-04-01,Consulting,4002,7,West,Valence Motors
+2025-04-03,Pro Plan,2621,3,South,Redwood Telecom
+2025-04-09,Starter Plan,1740,4,West,Crest Advisory
+2025-04-15,Enterprise,12216,3,South,Evergreen Foods
+2025-04-17,Pro Plan,3743,4,West,Vertex Health
+2025-04-17,Pro Plan,6583,4,West,Nova Commerce
+2025-04-18,Enterprise,9827,3,North,Pioneer Mobility
+2025-04-21,Add-ons,774,6,South,Nimbus Tech
+2025-04-23,Starter Plan,1603,3,East,Harbor Energy
+2025-04-24,Starter Plan,1023,7,North,Forge Systems
+2025-04-27,Starter Plan,561,4,South,Valence Motors
+2025-04-27,Pro Plan,4569,2,East,Forge Systems
+2025-04-28,Pro Plan,2164,4,North,Nova Commerce
+2025-04-28,Consulting,7222,6,South,Valence Motors
+2025-04-30,Add-ons,1497,2,West,Xenon Robotics
+2025-04-30,Consulting,4335,7,North,Ion Logistics
+2025-05-01,Pro Plan,3251,7,East,Redwood Telecom
+2025-05-01,Enterprise,9402,3,South,Westfield Travel
+2025-05-02,Pro Plan,2204,6,South,Valence Motors
+2025-05-03,Add-ons,1551,5,East,Quarry Analytics
+2025-05-03,Pro Plan,4097,3,West,Pioneer Mobility
+2025-05-04,Pro Plan,5313,8,South,Nova Commerce
+2025-05-06,Enterprise,9716,1,North,Evergreen Foods
+2025-05-06,Add-ons,1500,2,North,Xenon Robotics
+2025-05-09,Enterprise,9058,1,North,Lattice Dynamics
+2025-05-09,Starter Plan,820,4,South,Forge Systems
+2025-05-13,Pro Plan,6780,4,West,Kepler Group
+2025-05-15,Starter Plan,1758,3,South,Trident Security
+2025-05-16,Pro Plan,6001,1,West,Pioneer Mobility
+2025-05-16,Add-ons,2638,2,West,Nimbus Tech
+2025-05-16,Starter Plan,1383,4,East,Zenith Foods
+2025-05-17,Starter Plan,1321,1,West,Monarch Bio
+2025-05-23,Enterprise,15000,1,North,Oakwell Legal
+2025-05-23,Starter Plan,1712,6,North,BluePeak Retail
+2025-05-23,Starter Plan,1633,4,East,Vertex Health
+2025-05-28,Enterprise,10197,3,South,Crest Advisory
+2025-05-28,Starter Plan,874,8,West,Oakwell Legal
+2025-05-28,Pro Plan,6873,8,North,Nimbus Tech
+2025-05-30,Add-ons,1687,5,South,Summit Homes
+2025-05-31,Pro Plan,3856,6,South,Northstar Labs
+2025-06-01,Add-ons,1123,3,South,Summit Homes
+2025-06-01,Starter Plan,1366,1,South,Summit Homes
+2025-06-01,Consulting,6534,6,West,Valence Motors
+2025-06-03,Starter Plan,1489,8,North,Quarry Analytics
+2025-06-03,Pro Plan,5807,7,West,Oakwell Legal
+2025-06-04,Add-ons,2645,8,West,Monarch Bio
+2025-06-04,Consulting,7220,4,North,Brightline Media
+2025-06-07,Pro Plan,2809,4,West,Yellowbird Health
+2025-06-08,Pro Plan,2742,8,East,Northstar Labs
+2025-06-10,Consulting,10302,2,West,Pioneer Mobility
+2025-06-10,Starter Plan,1652,5,North,Juniper Works
+2025-06-11,Add-ons,1288,7,North,Northstar Labs
+2025-06-11,Consulting,13169,4,East,Summit Homes
+2025-06-16,Enterprise,13813,2,East,Summit Homes
+2025-06-17,Add-ons,1120,7,North,Forge Systems
+2025-06-20,Enterprise,10424,1,West,Northstar Labs
+2025-06-23,Starter Plan,582,6,West,Zenith Foods
+2025-06-24,Add-ons,2788,1,North,Quarry Analytics
+2025-06-24,Enterprise,14760,1,South,Kepler Group
+2025-06-26,Enterprise,14543,2,South,Monarch Bio
+2025-07-01,Enterprise,12544,1,South,Harbor Energy
+2025-07-01,Consulting,9896,5,North,Brightline Media
+2025-07-05,Starter Plan,2012,8,North,Monarch Bio
+2025-07-08,Pro Plan,2532,6,South,Redwood Telecom
+2025-07-09,Consulting,10776,3,East,Westfield Travel
+2025-07-09,Consulting,12179,4,North,Summit Homes
+2025-07-13,Starter Plan,1393,8,East,Nova Commerce
+2025-07-14,Pro Plan,2872,8,West,Oakwell Legal
+2025-07-14,Starter Plan,1364,5,South,Yellowbird Health
+2025-07-16,Enterprise,11109,2,North,Summit Homes
+2025-07-17,Starter Plan,1964,3,West,Ion Logistics
+2025-07-23,Consulting,10120,2,South,Summit Homes
+2025-07-26,Pro Plan,6055,1,North,Umbra Finance
+2025-07-28,Add-ons,2944,3,South,Nova Commerce
+2025-07-31,Pro Plan,5853,6,South,Crest Advisory
+2025-08-01,Starter Plan,1746,2,West,Nimbus Tech
+2025-08-03,Starter Plan,1433,4,South,Yellowbird Health
+2025-08-04,Starter Plan,2052,7,North,Westfield Travel
+2025-08-05,Starter Plan,1192,1,East,Umbra Finance
+2025-08-07,Pro Plan,4485,2,South,Ion Logistics
+2025-08-09,Starter Plan,820,3,North,Lattice Dynamics
+2025-08-11,Consulting,9396,6,North,Pioneer Mobility
+2025-08-16,Add-ons,2121,3,East,Vertex Health
+2025-08-21,Starter Plan,1615,5,West,Valence Motors
+2025-08-21,Pro Plan,5079,2,North,Xenon Robotics
+2025-08-27,Pro Plan,5542,5,North,Acme Corp
+2025-08-28,Enterprise,10177,3,South,Pioneer Mobility
+2025-08-29,Add-ons,1152,4,South,Northstar Labs
+2025-09-01,Pro Plan,4145,2,North,Crest Advisory
+2025-09-05,Consulting,7477,2,North,Ion Logistics
+2025-09-06,Enterprise,13847,1,North,Trident Security
+2025-09-07,Add-ons,1060,3,West,Redwood Telecom
+2025-09-08,Add-ons,1592,3,East,Redwood Telecom
+2025-09-09,Consulting,10397,2,South,Westfield Travel
+2025-09-10,Pro Plan,2616,2,West,Forge Systems
+2025-09-12,Consulting,7311,3,East,Crest Advisory
+2025-09-14,Starter Plan,1217,8,South,Evergreen Foods
+2025-09-15,Starter Plan,1599,4,East,Kepler Group
+2025-09-16,Starter Plan,1713,7,West,Yellowbird Health
+2025-09-17,Consulting,5606,4,South,Quarry Analytics
+2025-09-22,Add-ons,813,8,South,Yellowbird Health
+2025-09-26,Starter Plan,763,5,East,Umbra Finance
+2025-09-29,Pro Plan,4783,1,West,Zenith Foods
+2025-09-29,Add-ons,2328,5,West,Harbor Energy
+2025-10-03,Starter Plan,1389,4,East,Valence Motors
+2025-10-04,Starter Plan,843,2,North,Granite Capital
+2025-10-09,Starter Plan,1562,1,West,Westfield Travel
+2025-10-10,Pro Plan,6903,5,West,BluePeak Retail
+2025-10-13,Consulting,6160,4,East,Northstar Labs
+2025-10-15,Pro Plan,6005,4,East,Acme Corp
+2025-10-15,Pro Plan,7105,6,North,Yellowbird Health
+2025-10-16,Consulting,5527,2,North,Pioneer Mobility
+2025-10-16,Enterprise,9944,2,North,Nimbus Tech
+2025-10-22,Pro Plan,4889,7,North,Forge Systems
+2025-10-23,Consulting,8062,4,North,Yellowbird Health
+2025-10-24,Pro Plan,4366,6,South,Juniper Works
+2025-10-27,Starter Plan,1382,7,West,Evergreen Foods
+2025-10-28,Consulting,9654,1,West,Oakwell Legal
+2025-10-29,Starter Plan,1230,7,South,Xenon Robotics
+2025-10-30,Add-ons,770,7,West,BluePeak Retail
+2025-11-01,Add-ons,3329,6,East,Nova Commerce
+2025-11-02,Pro Plan,6955,4,West,Pioneer Mobility
+2025-11-02,Starter Plan,1439,1,North,Yellowbird Health
+2025-11-06,Pro Plan,2427,5,South,Granite Capital
+2025-11-08,Starter Plan,749,3,West,Granite Capital
+2025-11-10,Starter Plan,1900,1,East,Forge Systems
+2025-11-12,Add-ons,2033,8,West,Evergreen Foods
+2025-11-14,Enterprise,13118,1,East,Northstar Labs
+2025-11-17,Consulting,4846,8,South,Granite Capital
+2025-11-18,Add-ons,3039,3,West,Nimbus Tech
+2025-11-18,Pro Plan,3317,4,East,Westfield Travel
+2025-11-22,Consulting,8460,3,East,Pioneer Mobility
+2025-11-22,Starter Plan,926,8,South,Harbor Energy
+2025-11-23,Pro Plan,3274,8,South,Nimbus Tech
+2025-11-30,Add-ons,3008,8,North,Monarch Bio
+2025-12-01,Starter Plan,780,2,East,Redwood Telecom
+2025-12-02,Starter Plan,828,3,East,Juniper Works
+2025-12-04,Add-ons,1778,7,North,Vertex Health
+2025-12-04,Enterprise,15000,3,East,Trident Security
+2025-12-05,Pro Plan,5637,7,North,Kepler Group
+2025-12-08,Add-ons,891,5,East,Monarch Bio
+2025-12-09,Consulting,9855,4,West,Juniper Works
+2025-12-09,Starter Plan,1183,7,North,Granite Capital
+2025-12-09,Enterprise,15000,1,North,Lattice Dynamics
+2025-12-09,Pro Plan,3899,7,South,Pioneer Mobility
+2025-12-10,Enterprise,15000,3,South,Harbor Energy
+2025-12-12,Consulting,9566,1,West,Pioneer Mobility
+2025-12-13,Pro Plan,8960,7,West,Crest Advisory
+2025-12-19,Starter Plan,1691,4,West,Quarry Analytics
+2025-12-20,Starter Plan,1463,4,North,Nova Commerce
+2025-12-20,Starter Plan,1131,3,West,Umbra Finance
+2025-12-25,Add-ons,2477,5,East,Kepler Group
+2025-12-26,Starter Plan,2181,2,East,Vertex Health
+2025-12-27,Consulting,5344,2,South,Brightline Media
